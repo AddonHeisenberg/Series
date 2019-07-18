@@ -1,0 +1,47 @@
+<dir>
+
+     <name>[COLOR lime][B]Addon Heisenberg[/B][/COLOR]</name>
+
+     <link>Addon</link>
+
+     <animated_thumbnail></animated_thumbnail>
+
+     <thumbnail>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/icon.jpg</thumbnail>
+
+     <animated_fanart></animated_fanart>
+
+     <fanart>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/preview.jpg</fanart>
+
+</dir>
+
+<dir>
+
+     <name>[COLOR lime][B]TEMPORADA 1[/B][/COLOR]</name>
+
+     <link>Addon</link>
+
+     <animated_thumbnail></animated_thumbnail>
+
+     <thumbnail>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/icon.jpg</thumbnail>
+
+     <animated_fanart></animated_fanart>
+
+     <fanart>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/preview.jpg</fanart>
+
+</dir>
+
+<item>
+<title>Breaking Bad 1x01</title>
+<meta>
+<content>movie</content>
+<imdb>tt2380307</imdb>
+<title>Breaking Bad</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>http://streamcloud.eu/5cunwfo5t9mm(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/5cunwfo5t9mm(PREMIUM)</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w640/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/askg3SMvhqEl4OL52YuvdtY40Yb.jpg</fanart>
+</item>
