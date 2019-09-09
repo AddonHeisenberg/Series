@@ -20,6 +20,23 @@
 
      <name>[COLOR lime][B]TEMPORADA 2[/B][/COLOR]</name>
 
+     <link>https://raw.githubusercontent.com/AddonHeisenberg/BetterCallSaul/master/2</link>
+
+     <animated_thumbnail></animated_thumbnail>
+
+     <thumbnail>https://tentulogo.com/wp-content/uploads/2019/02/cabecera-breaking-bad.jpg</thumbnail>
+
+     <animated_fanart></animated_fanart>
+
+     <fanart>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/preview.jpg</fanart>
+
+</dir>
+
+
+<dir>
+
+     <name>[COLOR lime][B]TEMPORADA 3[/B][/COLOR]</name>
+
      <link>https://raw.githubusercontent.com/AddonHeisenberg/BetterCallSaul/master/3</link>
 
      <animated_thumbnail></animated_thumbnail>
@@ -38,23 +55,6 @@
      <name>[COLOR lime][B]TEMPORADA 4[/B][/COLOR]</name>
 
      <link>https://raw.githubusercontent.com/AddonHeisenberg/BetterCallSaul/master/4</link>
-
-     <animated_thumbnail></animated_thumbnail>
-
-     <thumbnail>https://tentulogo.com/wp-content/uploads/2019/02/cabecera-breaking-bad.jpg</thumbnail>
-
-     <animated_fanart></animated_fanart>
-
-     <fanart>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/preview.jpg</fanart>
-
-</dir>
-
-
-<dir>
-
-     <name>[COLOR lime][B]TEMPORADA 2[/B][/COLOR]</name>
-
-     <link>https://raw.githubusercontent.com/AddonHeisenberg/BetterCallSaul/master/2</link>
 
      <animated_thumbnail></animated_thumbnail>
 
